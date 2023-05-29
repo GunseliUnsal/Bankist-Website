@@ -1,6 +1,5 @@
 # Bankist-Website
 Bankist website is a project built with dynamic effects using JavaScript.
-I made this project while learning Advanced DOM and Events from Jonas Schmedtmann's course.
 
 ## Live Demo
 **You Can See The Project Live On:** [Here](https://gunseliunsal.github.io/Bankist-Website/)
